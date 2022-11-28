@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.exe
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.deps.json
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.runtimeconfig.json
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.dll
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.pdb
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.AssemblyInfo.cs
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.dll
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\refint\HOMEWORK2.dll
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.pdb
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.genruntimeconfig.cache
+C:\Users\PC\Desktop\HW2C#\HOMEWORK2\obj\Debug\net6.0\ref\HOMEWORK2.dll
